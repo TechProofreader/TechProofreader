@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TechProofreader
 - 👀 I’m interested in Data Science, Business, Healthcare, and anything math/compsci.
-- 🌱 I’m currently in graduate school studying  for an MBA in Organizational Management.
-- 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me: techreader33 at gmail dot com
+- 📫 How to reach me: techreader33 at gmail dot com.
+- I primarily post projects that others can learn from, so have a look around, especially if you're new to programming!
 
 <!---
 TechProofreader/TechProofreader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
