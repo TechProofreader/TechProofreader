@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechProofreader
-- 👀 I’m interested in Data Science, Business, Healthcare, and anything math/compsci.
+- 👀 I enjoy writing and editing technical documents, posting projects for others to learn from, and coding up new projects when I have the time!
+- *If you need someone to write or edit your project's tech docs, feel free to reach out to me via my e-mail address below*:
 - 📫 How to reach me: techreader33 at gmail dot com.
-- I primarily post projects of varying levels that others can learn from, so have a look around, especially if you're new to programming!
 
 <!---
 TechProofreader/TechProofreader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
